@@ -6,7 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://simple-faq-opal.vercel.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/paladachelle/simple-faq">
       Solution
     </a>
     <span> | </span>
@@ -49,5 +53,4 @@ In this project, I learned that before building, the first step is to structure 
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [paladachelle](https://github.com/paladachelle/)
