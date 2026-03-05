@@ -80,6 +80,41 @@ li > .bold {
   text-decoration: none;
 }
 
+.faq-link:visited {
+  color: darkorchid;
+}
+
+.faq-link:hover {
+  color: #17419c;
+}
+
+.faq-link:active {
+  color: #4e80ee;
+}
+
+@media screen and (max-width: 1024px) {
+  .faq-info,
+  .divider {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .faq-info,
+  .divider {
+    width: 100%;
+  }
+
+  .faq-wrapper {
+    padding: 60px 20px;
+  }
+
+  ul,
+  ol {
+    margin-left: 25px;
+  }
+}
+
 .author-info {
   font-size: 14px;
   text-align: center;
