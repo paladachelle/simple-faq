@@ -1,4 +1,4 @@
-<h1 align="center">{Simple FAQ} | devChallenges</h1>
+<h1 align="center">Simple FAQ | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/paladachelle/simple-faq/blob/main/resources/assets/simple-faq.JPG)
 
 ### What I learned
 
