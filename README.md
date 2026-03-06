@@ -47,9 +47,9 @@ In this project, I learned that before building, the first step is to structure 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS selectors and combinators
-- CSS pseudo-states
-- CSS media queries
+- CSS Selectors and Combinators
+- CSS Pseudo-states
+- CSS Media Queries
 
 ## Author
 
